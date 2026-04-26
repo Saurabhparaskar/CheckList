@@ -12,7 +12,7 @@ CheckList/
 
 
 
-### 1. Login.java
+
 A simple login authentication system that validates user credentials.
 
 **Features:**
