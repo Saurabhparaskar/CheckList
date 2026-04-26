@@ -2,7 +2,6 @@
 
 A simple Java project containing basic educational programs demonstrating fundamental programming concepts like user authentication and conditional logic.
 
-## 📁 Project Structure
 
 ```
 CheckList/
@@ -11,7 +10,7 @@ CheckList/
 └── Readme.md            # Project documentation
 ```
 
-## 📋 Programs Included
+
 
 ### 1. Login.java
 A simple login authentication system that validates user credentials.
